@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "kristof.willen@gmail.com",
+    "longName": "Spiro",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Spiro",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "5a6c60ae-b9f3-42bc-adde-eb1726a38778",
+    "versionLabel": "2.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
