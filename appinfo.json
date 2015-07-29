@@ -7,7 +7,14 @@
     "longName": "Spiro",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "images/spiro_icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_APP_ICON",
+                "type": "png"
+            }
+        ]
     },
     "sdkVersion": "3",
     "shortName": "Spiro",
@@ -16,7 +23,7 @@
         "basalt"
     ],
     "uuid": "5a6c60ae-b9f3-42bc-adde-eb1726a38778",
-    "versionLabel": "2.0",
+    "versionLabel": "2.1",
     "watchapp": {
         "watchface": true
     }
